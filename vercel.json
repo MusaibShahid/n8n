@@ -11,9 +11,5 @@
       "src": "/(.*)",
       "dest": "/"
     }
-  ],
-  "env": {
-    "NODE_ENV": "production",
-    "N8N_PORT": "$PORT"
-  }
+  ]
 }
